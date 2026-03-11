@@ -1,4 +1,4 @@
-<img width="1062" height="685" alt="image" src="https://github.com/user-attachments/assets/eec10e79-c561-4bc0-8f3c-edc0ee902c0a" /># 🐧 Linux-Labs: Ubuntu & Termux SSH Setup
+# 🐧 Linux-Labs: Ubuntu & Termux SSH Setup
 
 This repository documents the process of establishing a secure SSH connection between an Android device (via **Termux**) and an Ubuntu instance running in **VirtualBox**. It specifically addresses the common "Connection Timeout" issues caused by virtualized network stacks.
 
