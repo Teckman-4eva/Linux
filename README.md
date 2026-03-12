@@ -47,7 +47,7 @@ pkg update && pkg upgrade
 pkg install openssh
 
 # Connect to the Ubuntu machine
-ssh <username>@<ubuntu-ip-address>
+ssh < username >@< ubuntu-ip-address >
 
 Verify and testing 
 
